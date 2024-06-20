@@ -1,0 +1,9 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f8efef;
+  cursor: default;
+}
